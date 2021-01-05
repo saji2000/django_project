@@ -7,4 +7,4 @@ def home(request):
 
 
 def hi(request):
-    return HttpResponse('<p> Hello World</p>')
+    return HttpResponse('<p>hello World</p>')
